@@ -1,9 +1,9 @@
 {
-    "name": "vhall/weixin-share-php",
-    "description": "vhall packagelist",
+    "name": "nelsonking/weixin-share",
+    "description": "nelsonking weixin-share",
     "authors": [{
-        "name": "vhall_team",
-        "email": "vhall_team@gmail.com"
+        "name": "nelsonking",
+        "email": "gaoyansing@sina.com"
     }],
     "require": {
         "php": ">=5.5.0"
